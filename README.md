@@ -1,0 +1,1 @@
+TEMPLATE Create-react-app module-federation
