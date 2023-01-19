@@ -1,24 +1,20 @@
 {
-  "name": "cra-template-module-federation-remote",
-  "version": "1.0.0",
+  "name": "cra-template-module-federation-remote-app-with-redux",
+  "version": "1.2.0",
+  "description": "The template of remote app with redux of module federation for Create React App",
   "keywords": [
     "react",
     "create-react-app",
     "template",
     "module-federation"
   ],
-  "description": "The template of remote app of module federation for Create React App",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template"
+    "url": "https://github.com/Keizak/cra-template-module-federation"
   },
   "license": "MIT",
   "engines": {
     "node": ">=14"
-  },
-  "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
   },
   "files": [
     "template",
